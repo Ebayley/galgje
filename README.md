@@ -12,3 +12,4 @@
 ## Beurten
 req1: A
 res1: Ja
+req2: K
